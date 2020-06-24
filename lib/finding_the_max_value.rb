@@ -10,4 +10,4 @@ def find_max_value(array)
   max_value
 end
 
-puts find_max_value(array)
+puts find_max_value()
