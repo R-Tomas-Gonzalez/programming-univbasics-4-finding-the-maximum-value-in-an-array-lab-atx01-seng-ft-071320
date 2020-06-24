@@ -6,4 +6,4 @@ def find_max_value(array)
   end
 end
 
-find_max_value(array)
+find_max_value(Array)
